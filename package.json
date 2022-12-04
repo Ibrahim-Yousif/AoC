@@ -1,5 +1,5 @@
 {
-  "name": "Advent-Of-Code",
+  "name": "advent-of-code",
   "version": "1.0.0",
   "description": "",
   "main": "Day1.js",
@@ -9,8 +9,6 @@
   "type": "commonjs",
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "node-fetch": "^3.3.0"
-  }
+  "license": "ISC"
+  
 }
