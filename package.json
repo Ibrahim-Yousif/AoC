@@ -1,0 +1,16 @@
+{
+  "name": "Advent-Of-Code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Day1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "commonjs",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
